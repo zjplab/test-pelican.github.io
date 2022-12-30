@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>My Blog</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2019-04-24T13:47:06+02:00</updated><entry><title>这是我的第一篇技术博客</title><link href="/hello-world.html" rel="alternate"></link><published>2019-04-24T13:47:06+02:00</published><updated>2019-04-24T13:47:06+02:00</updated><author><name>JP Zhang</name></author><id>tag:None,2019-04-24:/hello-world.html</id><summary type="html">&lt;p&gt;这是我的第一篇技术博客，欢迎捧场&lt;/p&gt;</summary><content type="html">&lt;p&gt;这是我的第一篇技术博客，欢迎捧场，第一次写文章，还没想好怎么写，所有就随便写了一点儿。&lt;/p&gt;</content><category term="技术"></category><category term="python"></category></entry><entry><title>My First Review</title><link href="/my-first-review.html" rel="alternate"></link><published>2010-12-03T10:20:00+01:00</published><updated>2010-12-03T10:20:00+01:00</updated><author><name>JP Zhang</name></author><id>tag:None,2010-12-03:/my-first-review.html</id><summary type="html">&lt;ul&gt;
+&lt;li&gt;Understand how stress, sedentary lifestyle,&amp;amp; inadequate sleep interfere with weight loss&lt;/li&gt;
+&lt;li&gt;Learn stress management techniques that improve your response to stress&lt;/li&gt;
+&lt;li&gt;Assess whether you're getting the recommended amount of physical activity&lt;/li&gt;
+&lt;li&gt;Identify factors interfering with getting the recommended amount &amp;amp; quality of sleep&lt;/li&gt;
+&lt;li&gt;Set a goal for overcoming your biggest hindrance …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;ul&gt;
+&lt;li&gt;Understand how stress, sedentary lifestyle,&amp;amp; inadequate sleep interfere with weight loss&lt;/li&gt;
+&lt;li&gt;Learn stress management techniques that improve your response to stress&lt;/li&gt;
+&lt;li&gt;Assess whether you're getting the recommended amount of physical activity&lt;/li&gt;
+&lt;li&gt;Identify factors interfering with getting the recommended amount &amp;amp; quality of sleep&lt;/li&gt;
+&lt;li&gt;Set a goal for overcoming your biggest hindrance to weight loss&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Stress&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="" src="https://pic3.zhimg.com/v2-8e8cbfd4650e2de3fa473962bcf02eda_b.jpg"&gt;&lt;img alt="" src="data:image/svg+xml;utf8,&amp;lt;svg
+xmlns='http://www.w3.org/2000/svg' width='1177' height='631'&amp;gt;&amp;lt;/svg&amp;gt;"&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stress drives us to eat comfort food to soothe negative feelings &amp;amp; chemically dial down our stress response.&lt;/li&gt;
+&lt;li&gt;Stress hormones lead to an accumulation of belly fat - which releases chemicals that cause inflammation &amp;amp; insulin resistance, leading to further weight.&lt;/li&gt;
+&lt;li&gt;Stress triggers can be EXTERNAL (related to a job, relationships, or major life changes) or INTERNAL (challenges to health or mental wellbeing).&lt;/li&gt;
+&lt;li&gt;Stress is part of our lives. We can't always change the situation that causes stress. By recognizing triggers, you can become better at responding to stress.&lt;/li&gt;
+&lt;li&gt;Managing stress is an integral part of controlling weight.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Stress Management&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managed stress can be healthy &amp;amp; help you overcome obstacles.&lt;/li&gt;
+&lt;li&gt;Feeling high levels of stress, however, can be harmful to your weight &amp;amp; your health.&lt;/li&gt;
+&lt;li&gt;Stress management techniques that build resilience to stress can lower our level of stress hormones &amp;amp; improve how we regulate our appetite &amp;amp; weight.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="" src="https://pic2.zhimg.com/v2-326d94e0485ee4db20736863ada1e2d1_b.jpg"&gt;&lt;img alt="" src="data:image/svg+xml;utf8,&amp;lt;svg
+xmlns='http://www.w3.org/2000/svg' width='871'
+height='690'&amp;gt;&amp;lt;/svg&amp;gt;"&gt;&lt;img alt="" src="https://pic4.zhimg.com/v2-401042cbe4c0e895f6d340251d4fd0a7_b.jpg"&gt;&lt;img alt="" src="data:image/svg+xml;utf8,&amp;lt;svg
+xmlns='http://www.w3.org/2000/svg' width='735'
+height='754'&amp;gt;&amp;lt;/svg&amp;gt;"&gt;&lt;img alt="" src="https://pic4.zhimg.com/v2-23d184e5d81e2a95eb5759c383f0056f_b.jpg"&gt;&lt;img alt="" src="data:image/svg+xml;utf8,&amp;lt;svg
+xmlns='http://www.w3.org/2000/svg' width='681' height='502'&amp;gt;&amp;lt;/svg&amp;gt;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Readings:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://link.zhihu.com/?target=https%3A//www.health.harvard.edu/staying-healthy/why-stress-causes-people-to-overeat"&gt;Why Stress Causes People to Overeat&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://link.zhihu.com/?target=https%3A//ed.ted.com/lessons/how-stress-affects-your-body-sharon-horesh-bergquist"&gt;How Stress Affects Your Body&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://link.zhihu.com/?target=https%3A//www.helpguide.org/articles/diets/emotional-eating.htm"&gt;Emotional Eating&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://link.zhihu.com/?target=https%3A//www.helpguide.org/articles/stress/stress-management.htm"&gt;Stress Management&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://link.zhihu.com/?target=https%3A//www.psychologytoday.com/us/blog/what-mentally-strong-people-dont-do/201507/7-ways-mentally-strong-people-deal-stress"&gt;7 Ways Mentally Strong People Deal with Stress&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Exercise&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Exercise balances many of our hormones and immune system regulators, reducing cortisol and harmful inflammation &lt;/li&gt;
+&lt;li&gt;When muscles contract, they release chemical messengers called myokines(���⼤��), influencing our metabolism as well as our heart, muscle, fat, brain, liver and other organs. &lt;/li&gt;
+&lt;li&gt;An example of myokine is brain-derived netrophic factor(BDNF, ��Դ����Ӫ������)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="" src="https://pic4.zhimg.com/v2-8614d1b0990e3d46275684b1adcb061b_b.jpg"&gt;&lt;img alt="" src="data:image/svg+xml;utf8,&amp;lt;svg
+xmlns='http://www.w3.org/2000/svg' width='810' height='434'&amp;gt;&amp;lt;/svg&amp;gt;"&gt;Benefits of
+BDNF&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The recommendation is 30 minutes of aerobic exercise every day + strength resistance training twice a week&lt;/li&gt;
+&lt;li&gt;Avoid being sedentary for too long a time, since muscles slow uptaking glucose and triglycerides out of circulation &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Readings:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Here are a few helpful resources based on information from the previous
+lecture.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://link.zhihu.com/?target=https%3A//www.healthline.com/nutrition/does-exercise-cause-weight-loss"&gt;Does Exercise Help You Lose Weight?&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://link.zhihu.com/?target=https%3A//www.piedmont.org/living-better/how-exercise-helps-balance-hormones"&gt;How Exercise Helps Balance Hormones&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://link.zhihu.com/?target=https%3A//www.healthysimplelife.com/10-sneaky-ways-to-incorporate-more-exercise-into-your-day/"&gt;10 Sneaky Ways to Incorporate More Exercise into Your Day&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Easy Ways to Add More Physical Activity Into Your Daily Routine&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When at work:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stand up to take phone calls.&lt;/li&gt;
+&lt;li&gt;Go for a walk at lunch.&lt;/li&gt;
+&lt;li&gt;Take the stairs.&lt;/li&gt;
+&lt;li&gt;Walk to the break room, water cooler, or restroom every 90 minutes. (Set an alarm on your phone so you don��t forget.)&lt;/li&gt;
+&lt;li&gt;Stretch/exercise at your desk.&lt;/li&gt;
+&lt;li&gt;Have a question for a coworker? Walk to their desk instead of sending an email.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;When at home:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Play fitness-oriented video games, like Wii Fit or Dance Dance Revolution.&lt;/li&gt;
+&lt;li&gt;Dance around your house just for fun.&lt;/li&gt;
+&lt;li&gt;Clean. (It counts as exercise.)&lt;/li&gt;
+&lt;li&gt;Play with or walk your pets.&lt;/li&gt;
+&lt;li&gt;Do a few sets of exercises (squats, lunges, push-ups, burpees, etc.) any time you have 5 minutes to spare, during commercial breaks while watching TV or in between episodes if you��re watching Netflix.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;When out:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Walk or ride your bike to your destination whenever possible.&lt;/li&gt;
+&lt;li&gt;Park your car far away from an entrance when running errands.&lt;/li&gt;
+&lt;li&gt;If you use public transportation, ride standing up. And if you have the time, get off one or two stops early and walk the extra distance.&lt;/li&gt;
+&lt;li&gt;At the mall or department store, take the stairs and skip escalators and elevators.&lt;/li&gt;
+&lt;li&gt;Schedule active weekend events like bike rides, park dates, or easy day-hikes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;- Adapted from
+&lt;a href="https://link.zhihu.com/?target=https%3A//www.theactivetimes.com/20-easy-
+ways-build-exercise-your-daily-routine"&gt;TheActiveTimes.com&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Sleep&lt;/h2&gt;
+&lt;p&gt;Sleep deprivation :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Raises ghrelin (hunger hormone, ������) &lt;/li&gt;
+&lt;li&gt;Lowers leptin(satiety hormone, ����)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="" src="https://pic2.zhimg.com/v2-4729758062d6d9814c8d81f9408388f1_b.jpg"&gt;&lt;img alt="" src="data:image/svg+xml;utf8,&amp;lt;svg
+xmlns='http://www.w3.org/2000/svg' width='911' height='464'&amp;gt;&amp;lt;/svg&amp;gt;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Reading&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Here are a few helpful resources based on information from the previous
+lecture.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://link.zhihu.com/?target=https%3A//www.thesleepdoctor.com/2018/04/10/sleep-deprivation/"&gt;Here's What Really Happens When You're Sleep Deprived&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://link.zhihu.com/?target=https%3A//www.sleep.org/articles/train-go-sleep-earlier/"&gt;How to Train Yourself to Go to Sleep Earlier&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://link.zhihu.com/?target=https%3A//www.ted.com/talks/claudia_aguirre_what_would_happen_if_you_didn_t_sleep%3Flanguage%3Den"&gt;What Would Happen If You Didn't Sleep?&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Tips for good sleep&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Maintain consistent bedtimes and wake times seven days a week, even after a "bad" night.&lt;/li&gt;
+&lt;li&gt;Stay in bed for a period equal to the number of hours of sleep you actually get per night. Many insomniacs spend far too much time in bed, attempting to squeeze out a few more minutes of sleep.&lt;/li&gt;
+&lt;li&gt;If you have difficulty getting to sleep within 20 minutes, get out of bed and do something relaxing and distracting, like reading. Do not do housework, bills, work, or anything that is too stimulating during a nighttime awakening or within two hours of bedtime.&lt;/li&gt;
+&lt;li&gt;Avoid daytime naps. For most people, naps will interfere with falling asleep at night.&lt;/li&gt;
+&lt;li&gt;Don't drink alcohol within five hours of bedtime. Alcohol is a poor sleep aid and causes nighttime awakenings.&lt;/li&gt;
+&lt;li&gt;Avoid caffeine (coffee, tea, soda, chocolate) after 3 pm. It can cause shallow sleep or awakenings.&lt;/li&gt;
+&lt;li&gt;Don't go to bed on either an empty stomach or a full stomach. A light snack may help.&lt;/li&gt;
+&lt;li&gt;Bedrooms should be quiet, safe, and relaxing. Clocks should face away from the bed, so as not to "count down" the minutes until morning.&lt;/li&gt;
+&lt;li&gt;Daily exercise will improve insomnia, although the effects may not be immediate.&lt;/li&gt;
+&lt;li&gt;Schedule "worry time" earlier in the day to consider and resolve the day's problems before getting into bed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;- Adapted from "&lt;a href="https://link.zhihu.com/?target=https%3A//www.health.harvard.edu/staying-
+healthy/learn-how-to-sleep-again"&gt;Learn How to Sleep
+Again&lt;/a&gt;"&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ref&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="https://link.zhihu.com/?target=https%3A//www.coursera.org/learn/weight-management-beyond-balancing-calories/supplement/LZnd0/week-3"&gt;Weight management: beyond balancing calories&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content><category term="Review"></category></entry></feed>
